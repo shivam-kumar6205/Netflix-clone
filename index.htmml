@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <div class="main">
+      <nav class="flex">
+        <span>
+          <img src="/images/logo.svg" alt="" height="40" width="148"
+        /></span>
+        <div>
+          <button class="b1">English</button>
+          <button class="b2">Sign In</button>
+        </div>
+      </nav>
+      <div class="box"></div>
+      <div class="hero">
+        <h1>Unlimited movies, TV shows and more</h1>
+        <p>Starts at ₹149. Cancel at any time.</p>
+
+        <span>
+          Ready to watch? Enter your email to create or restart your
+          membership.</span
+        >
+
+        <form action="action.php">
+          <input type="text" placeholder="Email Address" />
+          <button>Get Started</button>
+        </form>
+      </div>
+    </div>
+
+
+<section class="1">
+    <div class="firstsec">
+        <span>Enjoy on your TV</span>
+        <span>Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.</span>
+    </div>
+
+ <div class="vid">
+    <img src="" alt="">
+    <video src=""></video>
+ </div>
+</section>
+
+
+<section class="2">
+    <div>
+        <img src="" alt="">
+        <video src=""></video>
+    </div>
+
+    <span>
+        Download your shows to watch offline
+    </span>
+
+    <span>
+        Save your favourites easily and always have something to watch.
+    </span>
+</section>
+
+
+<section class="3">
+    <span>
+        Watch everywhere
+    </span>
+    <span>
+        Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.
+    </span>
+
+    <div>
+        <img src="" alt="">
+        <video src=""></video>
+    </div>
+
+</section>
+
+<section class="4">
+  <div>
+    <img src="" alt="">
+  </div>
+
+  <div>
+    <span>
+        Create profiles for kids
+    </span>
+    <span>
+        Send children on adventures with their favourite characters in a space made just for them—free with your membership.
+    </span>
+  </div>
+</section>
+
+
+<section class="fqa">
+    <span>
+        Frequently Asked Questions
+    </span>
+
+    <div class="fqa11">What is N</div>
+    <div class="fqa12"></div>
+    <div class="fqa13"></div>
+    <div class="fqa14"></div>
+</section>
+
+
+
+
+  </body>
+</html>
